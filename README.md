@@ -20,7 +20,7 @@
 ### Ejemplo 
 En caso de duda, antes de instalar Yotsuba_Bot-MD, pruebe el bot aquí
 
-<a href="https://chat.whatsapp.com/JdNYHKTnYpaIih60YXlJk6">
+<a href="https://chat.whatsapp.com/IFon3fQibUtKGENnSKEWkk">
   <img src="https://img.shields.io/badge/Yotsuba_Bot-MD-0a0a0a?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
