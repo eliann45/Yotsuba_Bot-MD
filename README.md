@@ -1,4 +1,4 @@
-## 🍁Rei Ayanami Bot-MD🍁 By Alba070503 ✨ 
+## 🍁Yotsuba_Bot-MD🍁 By eliann45 ✨ 
 ## 
 
 <p align="center">
