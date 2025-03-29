@@ -118,8 +118,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 <a href="https://www.youtube.com/@frases_isagi">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>
-<a href="https://instagram.com/ildk.si">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a href="https://wa.me/message/KDQA26ZGOVLCG1">
+<img src="https://img.shields.io/badge/whatssapp-E4405F?style=for-the-badge&logo=whatssapp&logoColor=white">
 </a>
 
   ## `PROPIETARIO DEL BOT` 
