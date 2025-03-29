@@ -110,9 +110,10 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > rm -rf sessions
 > npm start
 ```
-## `AGRADECIMIENTOS & CREDITOS` 
+## `CREDITOS` 
 <a href="https://github.com/federico130"><img src="https://github.com/federico130.png" width="250" height="250" alt="Azamk"/></a>
 
+`Yotsuba_Bot-MD - By @federico130 `
 <a href="https://www.youtube.com/@frases_isagi">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>
@@ -123,7 +124,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
   ## `PROPIETARIO DEL BOT` 
 <a href="https://github.com/eliann45"><img src="https://github.com/eliann45.png" width="300" height="300" alt="eliann45"/></a>
 
-`Yotsuba_Bo5-MD - By @eliann45 `
+`Yotsuba_Bot-MD - By @eliann45 `
 #### COLABORADORES 
 <a href="https://github.com/Alba070503/Kumiko-MD-V2/graphs/contributors">
 <img src="https://contrib.rocks/image?repo=Alba070503/Kumiko-MD-V2"
