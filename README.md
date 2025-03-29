@@ -125,6 +125,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
   ## `PROPIETARIO DEL BOT` 
 <a href="https://github.com/eliann45"><img src="https://github.com/eliann45.png" width="300" height="300" alt="eliann45"/></a>
 <a href="https://instagram.com/ildk.si">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
 
 `Yotsuba_Bot-MD - By @eliann45 `
 
