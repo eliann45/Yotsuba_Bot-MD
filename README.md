@@ -2,23 +2,23 @@
 ## 
 
 <p align="center">
-<img src="https://github.com/Alba070503/Rei-AyanamiBot-MD/blob/main/Menu2.jpg" alt="Kumiko-MD" width="900"/>
+<img src="https://github.com/eliann45/Yotsuba_Bot-MD/blob/main/Menu2.jpg" alt="Yotsuba_Bot-MD" width="900"/>
 </p>
 
-<a href="https://github.com/Alba070503/Kumiko-MD-V2"><img title="Stars" src="https://img.shields.io/github/stars/Alba070503/Kumiko-MD-V2?color=ff4500&style=flat-square" /></a>
-<a href="https://github.com/zhwzein/Killua-Zoldyck/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Alba070503/Kumiko-MD-V2?color=ff4500&style=flat-square" /></a>
-<a href="https://github.com/zhwzein/Killua-Zoldyck/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Alba070503/Kumiko-MD-V2?label=watchers&color=ff4500&style=flat-square" /></a> <br>
+<a href="https://github.com/eliann45/Yotsuba_Bot-MD"><img title="Stars" src="https://img.shields.io/github/stars/eliann45/Yotsuba_Bot-MD?color=ff4500&style=flat-square" /></a>
+<a href="https://github.com/zhwzein/Killua-Zoldyck/network/members"><img title="Forks" src="https://img.shields.io/github/forks/eliann45/Yotsuba_Bot-MD?color=ff4500&style=flat-square" /></a>
+<a href="https://github.com/zhwzein/Killua-Zoldyck/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/eliann45/Yotsuba_Bot-MD?label=watchers&color=ff4500&style=flat-square" /></a> <br>
 
 
-<a href="https://www.youtube.com/@AlbaO7O503">
+<a href="https://www.youtube.com/@frases_isagi">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>
-<a href="https://instagram.com/Alba070503">
+<a href="https://instagram.com/_frases_isagi">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
 ### Ejemplo 
-En caso de duda, antes de instalar Kumiko-MD, pruebe el bot aquí
+En caso de duda, antes de instalar Yotsuba_Bot-MD, pruebe el bot aquí
 
 <a href="https://chat.whatsapp.com/LCAUbkf5kUz7jSxO6FADMU">
   <img src="https://img.shields.io/badge/KumikoMD-0a0a0a?style=for-the-badge&logo=whatsapp&logoColor=white">
