@@ -126,13 +126,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 <a href="https://github.com/eliann45"><img src="https://github.com/eliann45.png" width="300" height="300" alt="eliann45"/></a>
 
 `Yotsuba_Bot-MD - By @eliann45 `
-#### COLABORADORES 
-<a href="https://github.com/eliann45/Yotsuba_Bot-MD/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=eliann45
-</a>
-  
+
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
-<!-- ALL-CONTRIBUTORS-LIST:END -->
 `🍁Yotsuba_Bot-MD🍁- By @eliann45 `
