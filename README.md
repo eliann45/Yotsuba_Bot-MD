@@ -120,10 +120,10 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-  ## `EDITOR & PROPIETARIO DEL BOT` 
-<a href="https://github.com/Alba070503"><img src="https://github.com/Alba070503.png" width="300" height="300" alt="Alba070503"/></a>
+  ## `PROPIETARIO DEL BOT` 
+<a href="https://github.com/eliann45"><img src="https://github.com/eliann45.png" width="300" height="300" alt="eliann45"/></a>
 
-`Kumiko-MD - By @Alba070503 `
+`Yotsuba_Bo5-MD - By @eliann45 `
 #### COLABORADORES 
 <a href="https://github.com/Alba070503/Kumiko-MD-V2/graphs/contributors">
 <img src="https://contrib.rocks/image?repo=Alba070503/Kumiko-MD-V2"
