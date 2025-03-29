@@ -27,9 +27,9 @@ En caso de duda, antes de instalar Yotsuba_Bot-MD, pruebe el bot aquí
 ***
 
 ### `⚙️ AJUSTES ⚙️`
-- CAMBIAR NÚMERO DE PROPIETARIO [aqui](https://github.com/Alba070503/Kumiko-MD-V2/blob/main/config.js#L6)
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/Alba070503/Kumiko-MD-V2/fork)
-- Puede cambiar a la última versión de baileys editando el package.json [aqui](https://github.com/Alba070503/Kumiko-MD-V2/blob/main/package.json#L42)
+- CAMBIAR NÚMERO DE PROPIETARIO [aqui](https://github.com/eliann45/Yotsuba_Bot-MD.git/blob/main/config.js#L6)
+- CLONAR EL REPOSITORIO [Aqui](https://github.com/eliann45/Yotsuba_Bot-MD/fork)
+- Puede cambiar a la última versión de baileys editando el package.json [aqui](https://github.com/eliann45/Yotsuba_Bot-MD/blob/main/package.json#L42)
 ***
 
 #### INSTALACIÓN AUTOMÁTICA POR TERMUX
@@ -40,7 +40,7 @@ En caso de duda, antes de instalar Yotsuba_Bot-MD, pruebe el bot aquí
 termux-setup-storage
 ```
 ```bash
-apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/eliann45/Yotsuba_Bot-MD-V2/master/curiosity.sh | bash
+apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/eliann45/Yotsuba_Bot-MD/master/curiosity.sh | bash
 ```
 
 #### ACTIVAR EN TERMUX
@@ -77,7 +77,7 @@ npm start
 #### `☂️ ACTIVA EN HEROKU ☂️`
 para usuarios del heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Alba070503/Kumiko-MD-V2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/eliann45/Yotsuba_Bot-MD)
 
 #### Heroku Buildpack
 | BuildPack | LINK |
@@ -124,6 +124,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
   ## `PROPIETARIO DEL BOT` 
 <a href="https://github.com/eliann45"><img src="https://github.com/eliann45.png" width="300" height="300" alt="eliann45"/></a>
+<a href="https://instagram.com/ildk.si">
 
 `Yotsuba_Bot-MD - By @eliann45 `
 
