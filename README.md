@@ -114,6 +114,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 <a href="https://github.com/federico130"><img src="https://github.com/federico130.png" width="250" height="250" alt="Azamk"/></a>
 
 `Yotsuba_Bot-MD - By @federico130 `
+
 <a href="https://www.youtube.com/@frases_isagi">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>
@@ -126,8 +127,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 `Yotsuba_Bot-MD - By @eliann45 `
 #### COLABORADORES 
-<a href="https://github.com/Alba070503/Kumiko-MD-V2/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=Alba070503/Kumiko-MD-V2"
+<a href="https://github.com/eliann45/Yotsuba_Bot-MD.git/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=eliann45/Yotsuba_Bot-MD"
 </a>
 
 <!-- markdownlint-restore -->
