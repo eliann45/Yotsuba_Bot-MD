@@ -130,10 +130,9 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 <a href="https://github.com/eliann45/Yotsuba_Bot-MD/graphs/contributors">
 <img src="https://contrib.rocks/image?repo=eliann45/Yotsuba_Bot-MD"
 </a>
-  
 <a
 href="https://github.com/federico130/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=federico130/Yotsuba_Bot-MD"
+<img src="https://contrib.rocks/image?repo=federico130/Yuki_Suou-Bot"
 </a>
   
 <!-- markdownlint-restore -->
