@@ -128,7 +128,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 `Yotsuba_Bot-MD - By @eliann45 `
 #### COLABORADORES 
 <a href="https://github.com/eliann45/Yotsuba_Bot-MD/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=eliann45/federico130"
+<img src="https://contrib.rocks/image?repo=eliann45
 </a>
   
 <!-- markdownlint-restore -->
