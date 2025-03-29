@@ -130,4 +130,4 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
-`🍁Yotsuba_Bot-MD🍁- By @eliann45 `
+`Repositorio By @eliann45`
