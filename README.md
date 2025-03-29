@@ -40,7 +40,7 @@ En caso de duda, antes de instalar Yotsuba_Bot-MD, pruebe el bot aquí
 termux-setup-storage
 ```
 ```bash
-apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/Alba070503/Kumiko-MD-V2/master/curiosity.sh | bash
+apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/eliann45/Yotsuba_Bot-MD-V2/master/curiosity.sh | bash
 ```
 
 #### ACTIVAR EN TERMUX
@@ -59,7 +59,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/Alba070503/Kumiko-MD-V2 && cd Kumiko-MD-V2 && yarn install && npm install
+git clone https://github.com/eliann45/Yotsuba_Bot-MD && cd Yotsuba_Bot-MD-V2 && yarn install && npm install
 ```
 
 ```bash
@@ -106,7 +106,7 @@ para usuarios del heroku
 ### `OBTENER OTRO CODIGO QR`
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd Kumiko-MD-V2
+> cd Yotsuba_Bot-MD
 > rm -rf sessions
 > npm start
 ```
