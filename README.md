@@ -133,4 +133,4 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-`🍁Rei Ayanami Bot-MD🍁- By @Alba070503 `
+`🍁Yotsuba_Bot-MD🍁- By @eliann45 `
