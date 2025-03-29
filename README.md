@@ -128,8 +128,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 <a href="https://instagram.com/ildk.si">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-
-href="https://wa.me/+18093250019">
+<a
+href="https://wa.me/18093250019">
 <img src="https://img.shields.io/badge/whatssapp-E4405F?style=for-the-badge&logo=whatssapp&logoColor=white">
 </a>
 
