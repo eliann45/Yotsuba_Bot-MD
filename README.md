@@ -27,7 +27,7 @@ En caso de duda, antes de instalar Yotsuba_Bot-MD, pruebe el bot aquí
 ***
 
 ### `⚙️ AJUSTES ⚙️`
-- CAMBIAR NÚMERO DE PROPIETARIO [aqui](https://github.com/eliann45/Yotsuba_Bot-MD.git/blob/main/config.js#L6)
+- CAMBIAR NÚMERO DE PROPIETARIO [aqui](https://github.com/eliann45/Yotsuba_Bot-M/blob/main/config.js#L6)
 - CLONAR EL REPOSITORIO [Aqui](https://github.com/eliann45/Yotsuba_Bot-MD/fork)
 - Puede cambiar a la última versión de baileys editando el package.json [aqui](https://github.com/eliann45/Yotsuba_Bot-MD/blob/main/package.json#L42)
 ***
@@ -59,7 +59,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/eliann45/Yotsuba_Bot-MD && cd Yotsuba_Bot-MD-V2 && yarn install && npm install
+git clone https://github.com/eliann45/Yotsuba_Bot-MD && cd Yotsuba_Bot-MD && yarn install && npm install
 ```
 
 ```bash
@@ -90,6 +90,7 @@ para usuarios del heroku
 > Activar **ShizukaBot-MD** 24/7 activo en Infinity-Host
 
 <a href="https://dashboard.infinitywa.xyz"><img src="https://qu.ax/XLCK.jpg" height="125px"></a>
+
 ### Información del Host
 
 - **Página:** [`Click aqui`](https://dashboard.infinitywa.xyz)
