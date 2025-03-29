@@ -111,12 +111,12 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > npm start
 ```
 ## `AGRADECIMIENTOS & CREDITOS` 
-<a href="https://github.com/BrunoSobrino"><img src="https://github.com/BrunoSobrino.png" width="250" height="250" alt="Azamk"/></a>
+<a href="https://github.com/federico130"><img src="https://github.com/federico130.png" width="250" height="250" alt="Azamk"/></a>
 
-<a href="https://www.youtube.com/@Azami_19">
+<a href="https://www.youtube.com/@frases_isagi">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>
-<a href="https://instagram.com/azami.19">
+<a href="https://instagram.com/ildk.si">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
