@@ -18,7 +18,7 @@ Trace:
 
 npm manifest: 
   {
-  "name": "CuriosityBot-MD",
+  "name": "Yotsuba_Bot-MD",
   "version": "1.0.0", 
   "description": "WhatsApp Bot - Node.Js",
   "main": "index.js",
