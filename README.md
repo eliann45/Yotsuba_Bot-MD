@@ -132,7 +132,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 </a>
 <a
 href="https://github.com/federico130/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=federico130/Yuki_Suou-Bot"
+<img src="https://contrib.rocks/image?repo=federico130/Yuki-Suou-Bot"
 </a>
   
 <!-- markdownlint-restore -->
